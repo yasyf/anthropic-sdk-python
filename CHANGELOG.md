@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.31.2 (2024-07-17)
+
+Full Changelog: [v0.31.1...v0.31.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.31.1...v0.31.2)
+
+### Chores
+
+* **docs:** minor update to formatting of API link in README ([#594](https://github.com/anthropics/anthropic-sdk-python/issues/594)) ([113b6ac](https://github.com/anthropics/anthropic-sdk-python/commit/113b6ac65de2a670b0d957d11d48b060106150d3))
+* **internal:** update formatting ([#597](https://github.com/anthropics/anthropic-sdk-python/issues/597)) ([565dfcd](https://github.com/anthropics/anthropic-sdk-python/commit/565dfcd4610c26b598f6c72e9182e8c60bffc2a0))
+
 ## 0.31.1 (2024-07-15)
 
 Full Changelog: [v0.31.0...v0.31.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.31.0...v0.31.1)
